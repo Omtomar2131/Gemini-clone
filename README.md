@@ -1,8 +1,3 @@
-# React + Vite
+#Gemini-Clone
+This project is a clone of the Gemini chatbot, featuring a clean and user-friendly interface. Users can interact with the chatbot through various prompts, and the app supports recent prompts functionality, allowing easy access to past queries. The application also includes a sidebar for quick navigation and a responsive design that adapts to different screen sizes. Built with React and utilizing context API for state management, this clone showcases essential features like prompt suggestions, loading indicators, and result display, providing an engaging user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
